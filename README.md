@@ -1,5 +1,4 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Lynne Scheutie" width="100%">
 </p>
 
 <p align="center">

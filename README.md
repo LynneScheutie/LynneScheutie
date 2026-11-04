@@ -52,6 +52,14 @@ macOS 与 Windows 都能直接跑，不用开浏览器。
 
 ---
 
+## 我的编程语言
+
+<p align="center">
+  <img src="assets/langs.png" alt="Languages" width="100%">
+</p>
+
+---
+
 ## 一点偏好
 
 做出来的东西有几个共同点：**本地优先**、**独立窗口**、**不依赖浏览器标签**。

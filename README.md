@@ -1,10 +1,4 @@
----
-
 ## 在做
-
-<table>
-<tr>
-<td width="33%" valign="top">
 
 ### ScheutieOS
 
@@ -12,17 +6,11 @@
 
 [下载](https://github.com/LynneScheutie/ScheutieOS_Download) · [源码](https://github.com/LynneScheutie/ScheutieOS)
 
-</td>
-<td width="33%" valign="top">
-
 ### Cadence
 
 4K 目押音游的桌面版。人工智能导论的平时作业之一。
 
 [下载](https://github.com/LynneScheutie/Cadence_Download)
-
-</td>
-<td width="33%" valign="top">
 
 ### Zen Deck
 
@@ -30,18 +18,14 @@
 
 [下载](https://github.com/LynneScheutie/Zen_Deck_Download)
 
-</td>
-</tr>
-</table>
-
 ---
 
 ## QuotOS Aurora Lab
 
 另外在做一个独立软件小组，做法律工具与桌面端小应用。
 
-**法法典 Lawlearn** — 离线法条库配 AI 解释
-**Sermo** — QuotOS Aether 的独立应用版
+**法法典 Lawlearn** — 离线法条库配 AI 解释  
+**Sermo** — QuotOS Aether 的独立应用版  
 **Speculum** — 视频下载小工具
 
 [去看看](https://github.com/QuotOS-Aurora-Lab)
@@ -50,6 +34,5 @@
 
 ## 一点偏好
 
-断网专注是对的
-
+断网专注是对的  
 数据能留在这台机器上，就不往上送。

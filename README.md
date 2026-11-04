@@ -55,7 +55,7 @@ macOS 与 Windows 都能直接跑，不用开浏览器。
 ## 我的编程语言
 
 <p align="center">
-  <img src="assets/langs.png" alt="Languages" width="100%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynneScheutie&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=e6edf3&text_color=9ba1a6&icon_color=58a6ff&card_width=620" alt="Top Languages">
 </p>
 
 ---

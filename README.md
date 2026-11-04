@@ -44,7 +44,7 @@ macOS 与 Windows 都能直接跑，不用开浏览器。
 
 另外在做一个独立软件小组，做法律工具与桌面端小应用。
 
-**法法典 Lawlearn** — 离线法条库配 AI 解释，62 份司法解释 2835 条，四卷结构
+**法法典 Lawlearn** — 离线法条库配 AI 解释，107 部法律 9,408 条，62 份司法解释 2,835 条，四卷结构
 **Sermo** — QuotOS Aether 的独立 macOS 客户端，七家服务商
 **Speculum** — 视频下载，自带 yt-dlp 与 ffmpeg
 

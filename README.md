@@ -10,8 +10,6 @@
 
 把 `chat.deepseek.com` 装进一个独立窗口，顺手补上网页端最缺的东西：把长对话结构化导出成 PDF 或 Markdown，还带字数统计。
 
-macOS 用 Swift + WKWebView，Windows 用 C# WinForms + WebView2，两边统一 8.4.2。
-
 [下载](https://github.com/LynneScheutie/ScheutieOS_Download) · [源码](https://github.com/LynneScheutie/ScheutieOS)
 
 </td>
@@ -19,9 +17,7 @@ macOS 用 Swift + WKWebView，Windows 用 C# WinForms + WebView2，两边统一 
 
 ### Cadence
 
-4K 目押音游的桌面版。S / D / J / K 四键，五档难度，带演示模式、暂停与计分。
-
-macOS 与 Windows 都能直接跑，不用开浏览器。
+4K 目押音游的桌面版。人工智能导论的平时作业之一。
 
 [下载](https://github.com/LynneScheutie/Cadence_Download)
 

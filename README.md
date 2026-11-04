@@ -52,14 +52,6 @@ macOS 与 Windows 都能直接跑，不用开浏览器。
 
 ---
 
-## 我的编程语言
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LynneScheutie&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=e6edf3&text_color=9ba1a6&icon_color=58a6ff&card_width=620" alt="Top Languages">
-</p>
-
----
-
 ## 一点偏好
 
 做出来的东西有几个共同点：**本地优先**、**独立窗口**、**不依赖浏览器标签**。

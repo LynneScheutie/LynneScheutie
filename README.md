@@ -8,7 +8,7 @@
 
 ### ScheutieOS
 
-把 `chat.deepseek.com` 装进一个独立窗口，顺手补上网页端最缺的东西：把长对话结构化导出成 PDF 或 Markdown，还带字数统计。
+把ds装进一个独立窗口，把长对话结构化导出成 PDF 或 Markdown，还带字数统计。
 
 [下载](https://github.com/LynneScheutie/ScheutieOS_Download) · [源码](https://github.com/LynneScheutie/ScheutieOS)
 

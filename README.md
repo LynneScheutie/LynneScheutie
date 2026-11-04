@@ -40,9 +40,9 @@
 
 另外在做一个独立软件小组，做法律工具与桌面端小应用。
 
-**法法典 Lawlearn** — 离线法条库配 AI 解释，107 部法律 9,408 条，62 份司法解释 2,835 条，四卷结构
-**Sermo** — QuotOS Aether 的独立 macOS 客户端，七家服务商
-**Speculum** — 视频下载，自带 yt-dlp 与 ffmpeg
+**法法典 Lawlearn** — 离线法条库配 AI 解释
+**Sermo** — QuotOS Aether 的独立应用版
+**Speculum** — 视频下载小工具
 
 [去看看](https://github.com/QuotOS-Aurora-Lab)
 
@@ -50,12 +50,6 @@
 
 ## 一点偏好
 
-做出来的东西有几个共同点：**本地优先**、**独立窗口**、**不依赖浏览器标签**。
+断网专注是对的
 
 数据能留在这台机器上，就不往上送。
-
----
-
-<blockquote>
-<p align="center"><sub>柏浪涛：「この荒唐無稽な世界、人は虚無を求めても、無所求ではいられない。」</sub></p>
-</blockquote>
